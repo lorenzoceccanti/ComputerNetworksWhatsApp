@@ -1,7 +1,7 @@
 # ComputerNetworksWhatsApp
 Project for the Computer Networks course at Bachelor Degree, discussed on January 2023
 
-# A detailed description could be found here:
+# A detailed report could be found here: (in italian)
 https://github.com/lorenzoceccanti/ComputerNetworksWhatsApp/blob/563aebea50fe2c3d61a549c8b4b5e08475663a00/Relazione.pdf
 
 # Description:
