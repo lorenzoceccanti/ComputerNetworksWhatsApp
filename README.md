@@ -1,6 +1,9 @@
 # ComputerNetworksWhatsApp
 Project for the Computer Networks course at Bachelor Degree, discussed on January 2023
 
+# A detailed description could be found here:
+Relazione.pdf
+
 # Description:
 The project consisted in developing an hybrid client-server and Peer to Peer C application.
 The application is an instant-messaging application:
