@@ -2,7 +2,7 @@
 Project for the Computer Networks course at Bachelor Degree, discussed on January 2023
 
 # A detailed description could be found here:
-Relazione.pdf
+https://github.com/lorenzoceccanti/ComputerNetworksWhatsApp/blob/563aebea50fe2c3d61a549c8b4b5e08475663a00/Relazione.pdf
 
 # Description:
 The project consisted in developing an hybrid client-server and Peer to Peer C application.
