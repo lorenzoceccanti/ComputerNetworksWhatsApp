@@ -1,0 +1,90 @@
+_STHEAD_
+f:user2
+t:user3
+ii:1672655574
+ir:1672655574
+dp:61
+_ENHEAD_
+_STPAY_
+txt:Ok, fatto l'ho aggiunto. Ora i messaggi arrivano anche a lui
+$
+_STHEAD_
+f:user2
+t:user3
+ii:1672655588
+ir:1672655588
+dp:38
+_ENHEAD_
+_STPAY_
+txt:Così non si sta a scrivere due volte
+$
+_STHEAD_
+f:user2
+t:user3
+ii:1672655671
+ir:1672655671
+dp:135
+_ENHEAD_
+_STPAY_
+txt:Mi sono permesso di prenotare io, ci troviamo davanti allo Stadio, vi passo le coordinate GPS, vi porto io si va con una macchina sola
+$
+_STHEAD_
+f:user2
+t:user3
+ii:1672655750
+ir:1672655788
+dp:91
+_ENHEAD_
+_STPAY_
+txt:Anzi no, ho cambiato idea. Troviamoci davanti al Centro Commerciale a lì è piilluminata.
+$
+_STHEAD_
+f:user2
+t:user3
+ii:1672655805
+ir:1672655805
+dp:17
+_ENHEAD_
+_STPAY_
+txt:*più illuminata
+$
+_STHEAD_
+f:user3
+t:user2
+ii:1672655836
+ir:1672655836
+dp:77
+_ENHEAD_
+_STPAY_
+txt:Ciao, scusate.. Mi ero perso i messaggi! Ero a studiare. Vi aspetto allora!!
+$
+_STHEAD_
+f:user2
+t:user3
+ii:1672656822
+ir:1672656822
+dp:8
+_ENHEAD_
+_STPAY_
+txt:Scusate
+$
+_STHEAD_
+f:user2
+t:user3
+ii:1672656845
+ir:1672656845
+dp:64
+_ENHEAD_
+_STPAY_
+txt:Avevo sbagliato ad inviare il file. Ora arriverà correttamente
+$
+_STHEAD_
+f:user3
+t:user2
+ii:1672656870
+ir:1672656870
+dp:17
+_ENHEAD_
+_STPAY_
+txt:Ricevuto grazie!
+$

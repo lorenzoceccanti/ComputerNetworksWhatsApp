@@ -1,0 +1,150 @@
+_STHEAD_
+f:user1
+t:user2
+ii:1672655372
+ir:1672655372
+dp:17
+_ENHEAD_
+_STPAY_
+txt:Ciao, come stai?
+$
+_STHEAD_
+f:user2
+t:user1
+ii:1672655389
+ir:1672655389
+dp:25
+_ENHEAD_
+_STPAY_
+txt:Ciao, tutto bene grazie!
+$
+_STHEAD_
+f:user1
+t:user2
+ii:1672655441
+ir:1672655441
+dp:54
+_ENHEAD_
+_STPAY_
+txt:Ti va di fare una cena sabato sera? Sento anche user3
+$
+_STHEAD_
+f:user2
+t:user1
+ii:1672655462
+ir:1672655462
+dp:39
+_ENHEAD_
+_STPAY_
+txt:Ma sarà meglio allora fare un gruppo?
+$
+_STHEAD_
+f:user1
+t:user2
+ii:1672655479
+ir:1672655479
+dp:57
+_ENHEAD_
+_STPAY_
+txt:Vai, ci sto. Lo creo io. Un attimo che aggiungo tutti :)
+$
+_STHEAD_
+f:user1
+t:user2
+ii:1672655519
+ir:1672655519
+dp:63
+_ENHEAD_
+_STPAY_
+txt:Accidenti, non ho il numero di user3. Potresti aggiungerlo te?
+$
+_STHEAD_
+f:user2
+t:user1
+ii:1672655526
+ir:1672655526
+dp:24
+_ENHEAD_
+_STPAY_
+txt:D'accordo. Ci penso io.
+$
+_STHEAD_
+f:user2
+t:user1
+ii:1672655574
+ir:1672655574
+dp:61
+_ENHEAD_
+_STPAY_
+txt:Ok, fatto l'ho aggiunto. Ora i messaggi arrivano anche a lui
+$
+_STHEAD_
+f:user2
+t:user1
+ii:1672655588
+ir:1672655588
+dp:38
+_ENHEAD_
+_STPAY_
+txt:Così non si sta a scrivere due volte
+$
+_STHEAD_
+f:user2
+t:user1
+ii:1672655671
+ir:1672655671
+dp:135
+_ENHEAD_
+_STPAY_
+txt:Mi sono permesso di prenotare io, ci troviamo davanti allo Stadio, vi passo le coordinate GPS, vi porto io si va con una macchina sola
+$
+_STHEAD_
+f:user2
+t:user1
+ii:1672655750
+ir:1672655750
+dp:91
+_ENHEAD_
+_STPAY_
+txt:Anzi no, ho cambiato idea. Troviamoci davanti al Centro Commerciale a lì è piilluminata.
+$
+_STHEAD_
+f:user2
+t:user1
+ii:1672655805
+ir:1672655805
+dp:17
+_ENHEAD_
+_STPAY_
+txt:*più illuminata
+$
+_STHEAD_
+f:user2
+t:user1
+ii:1672656822
+ir:1672656822
+dp:8
+_ENHEAD_
+_STPAY_
+txt:Scusate
+$
+_STHEAD_
+f:user2
+t:user1
+ii:1672656845
+ir:1672656845
+dp:64
+_ENHEAD_
+_STPAY_
+txt:Avevo sbagliato ad inviare il file. Ora arriverà correttamente
+$
+_STHEAD_
+f:user1
+t:user2
+ii:1672656881
+ir:1672656881
+dp:35
+_ENHEAD_
+_STPAY_
+txt:Anche io! Grazie, ci vediamo ciaoo
+$
